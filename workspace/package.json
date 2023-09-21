@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-app": "^1.1.2",
+    "react-async": "^10.0.1",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1",
+    "redux-actions": "^3.0.0",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
